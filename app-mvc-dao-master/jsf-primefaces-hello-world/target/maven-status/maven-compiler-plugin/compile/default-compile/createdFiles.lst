@@ -1,0 +1,17 @@
+com\codenotfound\model\dao\AcademicDaoImpl.class
+com\codenotfound\model\factory\AcademicDaoFactoryImpl.class
+com\codenotfound\SpringPrimeFacesApplication.class
+com\codenotfound\model\factory\StudentDaoFactoryImpl.class
+com\codenotfound\model\dao\StudentDao.class
+com\codenotfound\services\StudentService.class
+com\codenotfound\model\factory\StudentDaoFactory.class
+com\codenotfound\model\factory\DAOException.class
+com\codenotfound\model\dao\StudentDaoImpl.class
+com\codenotfound\model\Academics.class
+com\codenotfound\controllers\StudentController.class
+com\codenotfound\model\factory\DAOFactory.class
+com\codenotfound\model\Student.class
+com\codenotfound\services\AcademicService.class
+com\codenotfound\controllers\AcademicsController.class
+com\codenotfound\model\dao\AcademicDao.class
+com\codenotfound\model\factory\AcademicDaoFactory.class
